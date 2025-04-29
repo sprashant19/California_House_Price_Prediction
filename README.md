@@ -13,7 +13,6 @@ This project focuses on predicting house prices in California based on various f
 3. Data Cleaning & Preprocessing
 4. Model Building (Linear Regression)
 5. Model Evaluation
-6. Hyperparameter Tuning (if applicable)
 
 ## 📈 Key Outcomes
 - Achieved a good predictive performance using Linear Regression.
