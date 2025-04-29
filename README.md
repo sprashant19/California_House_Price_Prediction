@@ -47,10 +47,4 @@ Ridge performs better in capturing the overall trend without extreme predictions
 - Seaborn
 - Scikit-Learn
 
-## 🚀 How to Run
-1. Clone the repository.
-2. Install required packages: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook: `jupyter notebook California_House_Price_Prediction.ipynb`
 
-## 📩 Connect with Me
-- [LinkedIn Profile](Your LinkedIn Link)
